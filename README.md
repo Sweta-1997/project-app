@@ -1,6 +1,6 @@
-# project-app
+# Mementos App
 
-Mementos App
+
 
 This is a social media app developed by me that allows users to post interesting events.
 
