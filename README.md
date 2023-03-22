@@ -1,6 +1,10 @@
 # Mementos App
 
 
+<img width="872" alt="Mementos screenshot" src="https://user-images.githubusercontent.com/128545837/226984039-33ab708c-e0ea-4618-8a30-228c9ad0ce06.png">
+
+
+
 
 This is a social media app developed by me that allows users to post interesting events.
 
@@ -16,6 +20,4 @@ media app.
 • HTML5, CSS, Material UI, and ReactJS are used as the front-end tools to
 build module pages that communicate with back-end API with Nodejs,
 Express, and Mongoose.
-
-<img width="906" alt="mementos" src="https://user-images.githubusercontent.com/128545837/226956796-2b5a4020-b0f2-4440-9483-0c9ae35537be.png">
 
